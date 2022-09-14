@@ -1,0 +1,14 @@
+p{
+background-color: rgba(195, 166, 127, 0.349);
+border-radius: 15px;
+padding: 50px;
+}
+body{
+    background-image: url("/images/kelly-sikkema-zcAgxLryKe4-unsplash\ \(1\).jpg");
+}
+img{
+    width: 350px;
+    height: 168px;
+    margin-left: 820px;
+    border-radius: 15px;
+}
